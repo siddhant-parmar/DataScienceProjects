@@ -7,3 +7,5 @@ This was my my second attempt towards a Data Science Project.
 ### Libraries Used :
 1. Exploratory Data Analysis was done using __matplotlib, pandas_profiling and seaborn__ libraries.
 2. Modelling was done using __sklearn__ library.
+
+Note: The Project can be viewed by clicking on the .ipynb file.
