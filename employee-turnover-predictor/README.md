@@ -8,3 +8,5 @@
 4. Create interactive, GUI components in Jupyter notebooks using widgets.
 
 __This was my first attempt towards a Data Science Project.__
+
+Note: The Project can be viewed by clicking on the .ipynb file.
